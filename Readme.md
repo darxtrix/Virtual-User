@@ -26,11 +26,13 @@ FOR QUERIES AND PROBLEMS:
 -------------------------
 Send a mail. (ankprashar@gmail.com)
              (vermashivam1994@gmail.com)
+             (abhishekyadav3022@gmail.com)
 
 Contributers:
 --------------
 [Ankush Sharma](https://github.com/black_perl)
 [Shivam Verma](https://github.com/verma-1994)
+[Abhishek Yadav](https://github.com/abhishek3022)
 
 Fork !! if you like it.
 ----------------------
